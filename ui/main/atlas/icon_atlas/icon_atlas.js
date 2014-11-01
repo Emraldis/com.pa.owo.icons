@@ -115,6 +115,7 @@ $(document).ready(function () {
             'control_point',
             'mining_platform',
 			'excal',
+			'orbital_mine',
 			'hammerhead',
 			'hailfire',
 			'sentinel',
