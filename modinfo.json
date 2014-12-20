@@ -5,7 +5,11 @@
     "display_name": "Orbital Warfare Overhaul Strategic Icons",
     "description": "Orbital Warfare Overhaul Strategic Icons",
     "author": "emraldis/Darksteel, Nicb1, mgmetal13",
+<<<<<<< HEAD
     "version": "0.110",
+=======
+    "version": "0.109",
+>>>>>>> origin/master
     "signature": "not yet implemented",
     "priority": 100,
     "enabled": true,
