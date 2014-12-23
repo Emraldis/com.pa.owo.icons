@@ -4,8 +4,8 @@
     "identifier": "com.pa.owo.icons",
     "display_name": "Orbital Warfare Overhaul Strategic Icons",
     "description": "Orbital Warfare Overhaul Strategic Icons",
-    "author": "emraldis/Darksteel, Nicb1, mgmetal13",
-    "version": "0.110",
+    "author": "emraldis, Nicb1, mgmetal13",
+    "version": "0.111",
     "signature": "not yet implemented",
     "priority": 100,
     "enabled": true,
@@ -18,5 +18,8 @@
         "Strategic Icons"
     ],
     "date": "2014/10/27",
-    "build": "73939"
+    "build": "73939",
+    "dependencies": [
+        "com.pa.orbital_warfare_overhaul"
+    ]
 }
