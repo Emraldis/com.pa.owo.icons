@@ -121,7 +121,8 @@ $(document).ready(function () {
 			'hailfire',
 			'sentinel',
 			'missile_platform',
-			'tesla'
+			'tesla',
+			'unit_cannon'
 
         ]);
 
