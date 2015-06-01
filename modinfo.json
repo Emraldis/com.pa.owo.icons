@@ -5,7 +5,7 @@
     "display_name": "Orbital Warfare Overhaul Strategic Icons",
     "description": "Orbital Warfare Overhaul Strategic Icons",
     "author": "emraldis, Nicb1, mgmetal13",
-    "version": "0.116",
+    "version": "0.117",
     "signature": "not yet implemented",
     "priority": 100,
     "enabled": true,
@@ -17,8 +17,8 @@
         "client-mod",
         "Strategic Icons"
     ],
-    "date": "2014/10/27",
-    "build": "73939",
+    "date": "2015/05/31",
+    "build": "82369",
     "dependencies": [
         "com.pa.orbital_warfare_overhaul"
     ]
